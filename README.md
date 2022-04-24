@@ -1,2 +1,2 @@
-# study-project-design-patterns
-Study design patterns
+# com.studyproject.patterns
+Study design com.studyproject.patterns
